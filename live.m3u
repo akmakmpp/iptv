@@ -49,11 +49,11 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="Movies",CINEMAX Myanmar
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png",Fox Action
-https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+http://203.154.243.88:11088/hi/foxaction
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png",Fox Movies
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png",Fox Family
-https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+http://203.154.243.88:11088/hi/foxfam
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",HBO HD
 https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png",Red by HBO
