@@ -51,7 +51,7 @@ http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlea
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png",Fox Action
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png",Fox Movies
-https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png",Fox Family
 https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",HBO HD
@@ -63,9 +63,9 @@ https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png",HBO FAMILY
 https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png",AXN HD
-http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png",Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png",FOX HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png",FOX Life HD 
@@ -88,7 +88,7 @@ http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-film-us.png" group-title="Movies",Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_in.png" group-title="Movies",WB TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Rerun
@@ -105,8 +105,15 @@ https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitalsky.com.kh/uploads/videos/OneTV-Sports-11_logo_04_06_2018_10.jpg" group-title="Sports",ONETV SPORT11
 
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",True Sport HD2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport1.png",True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png",True Sport HD2
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport3.png",True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport4.png",True Sport HD4
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="Sports",SCTV
 
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5
@@ -114,14 +121,14 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pp_tv_hd_th.png" group-title="Sports",PPTV_HD
-http://196.53.249.42:9981/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?ticket=7589B7C9942D1C89E64222F8B762B1444D8BB4CB
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="Sports",Fox Sport 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="Sports",Fox Sport 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="Sports",Fox Sport 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="Sports",StarSports Select 1HD
 
@@ -147,11 +154,11 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/chelsea_tv.png" group-title="Sports",ChelseaTV
-https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="Sports",MUTV
 http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="Sports",LFCTV
-http://160.119.77.116:8081/iptv/uk-lfctv.stream/l_205960_36468743_6070.ts
+https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
