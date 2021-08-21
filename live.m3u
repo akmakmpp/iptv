@@ -165,20 +165,21 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f9/d7/fa/f9d7faae0c4167c3e1199702e091ceeb.jpg" group-title="VIP Sports",SKYNET SPORT1
-https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT
+https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.jpg" group-title="VIP Sports",SKYNET SPORT2
-https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/60/d6/d0/60d6d0094336d45d0396350f2648559a.jpg" group-title="VIP Sports",SKYNET SPORT3
-https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/18/94/77/1894773124c59b327ad34a7a795b2a18.jpg" group-title="VIP Sports",SKYNET SPORT4
-https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/53/8d/b0/538db0512ff986b94227c310626a7e98.jpg" group-title="VIP Sports",SKYNET SPORT5
-https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.jpg" group-title="VIP Sports",SKYNET SPORT6
-https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/81/24/96812444d300f3f40db93dd6280f2131.jpg" group-title="VIP Sports",SKYNET SPORT HD
-https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="VIP Sports",BEIN SP LaLiga
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
@@ -196,11 +197,11 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 SD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 HD
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 HD
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="VIP Sports",Premier League3 HD
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="VIP Sports",ASTRO SUPERSPORTS 1
